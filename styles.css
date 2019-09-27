@@ -80,7 +80,7 @@
 }
 
 .ddmatch .matchtarget.yui3-dd-drop-over li {
-    background-color: blue;
+    opacity:0.5;
 }
 
 /* Editing form. */
